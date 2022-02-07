@@ -8,3 +8,5 @@ print("Cost per week:", cost_per_week)
 
 
 #Part B
+my_list = ["orange", "lemon", "apple", "banana", "coconut"]
+print("The random fruit is",random.choice(my_list))
