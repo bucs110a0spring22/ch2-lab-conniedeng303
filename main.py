@@ -14,5 +14,6 @@ print("The cost per class:", cost_per_class, type (cost_per_class))
 
 #Part B
 my_list = ["orange", "lemon", "apple", "banana", "coconut"]
-print("The random fruit is",random.choice(my_list))
+y = random.choice(my_list)
+print("The random fruit is",y)
 
