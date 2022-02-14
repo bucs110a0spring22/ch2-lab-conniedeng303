@@ -21,3 +21,4 @@ my_list = ["orange", "lemon", "apple", "banana", "coconut"]
 y = random.choice(my_list)
 print("The random fruit is",y)
 
+print(y, type(y))
